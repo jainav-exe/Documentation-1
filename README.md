@@ -3,10 +3,10 @@
 This is the documentation for the Community-supported HTML5 Platform Extension for Unreal Engine 4.
 
 - [Detailed "HowTo" Build UE4 for HTML5](Platforms/HTML5/HowTo/README.md)
-	- latest documentation
+	- latest documentation.
 
 - [Unreal Engine 4 HTML5 Platform Documentation](Platforms/HTML5/HTML5.md)
-	- older, but may have addtional information that might be useful
+	- older, but may have addtional information that might be useful.
 
 * * *
 
